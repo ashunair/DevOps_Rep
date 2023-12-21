@@ -1,3 +1,3 @@
 
 This is DevOps project
-We are doing commit changes.
+Performing commit changes.
